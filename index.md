@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/patienceFromZhou/zhoushihao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/patienceFromZhou/zhoushihao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Home Page of Borui Zhao</title>
+<!-- MathJax -->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async>
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
+<!-- End MathJax -->
+</head>
+<body>
+<div id="layout-content">
+<div id="toptitle">
+</div>
+<table class="imgtable"><tr><td>
+<img src="zbr.jpg" alt="Borui Zhao" />&nbsp;</td>
+<td align="left"><p>Borui Zhao,<br />
+M.D.<br />
+Department of Electronic Engineering<br />
+Nanjing University<br /><br /></p>
+</td></tr></table>
+<h2>About Me</h2>
+<ul>
+<li><p>I am currently a Research Assistant of Megvii Research Nanjing, Megvii Technology.</p>
+</li>
+<li><p>I received my M.Sc.degree in Electronic Engineering from Nanjing University in 2019.</p>
+</li>
+<li><p>I received my B.Sc.degree in Electronic Engineering from Nanjing University in 2016.</p>
+</li>
+</ul>
+<h2>Research Interests</h2>
+<p>My research interests include <b>Computer Vision</b>, <b>General Object Detection</b> and <b>Deep Learning</b></p>
+<h2>Competitions</h2>
+<ul>
+<li><p><b>The first place</b> of the iNaturalist track in FGVC 6 (in association with CVPR 2019), 2019.</p>
+</li>
+<li><p><b>The first place</b> of the Herbarium track in FGVC 6 (in association with CVPR 2019), 2019.</p>
+</li>
+</ul>
+<h2>Correspondence</h2>
+<h3>Mail</h3>
+<p>Borui Zhao</p>
+<p>Megvii Research Nanjing</p>
+<p>Nanjing 210000, China</p>
+<h3>Office</h3>
+<p>15th Floor, Tower A, No.6 Xingzhi Rd., Nanjing</p>
+<div id="footer">
+</div>
+</div>
+</body>
+</html>
