@@ -19,33 +19,28 @@ MathJax.Hub.Config({
 <div id="toptitle">
 </div>
 <table class="imgtable"><tr><td>
-<img src="zbr.jpg" alt="Borui Zhao" />&nbsp;</td>
-<td align="left"><p>Borui Zhao,<br />
+<img src="zsh.jpg" alt="Shihao Zhou" />&nbsp;</td>
+<td align="left"><p>Shihao Zhou,<br />
 M.D.<br />
 Department of Electronic Engineering<br />
-Nanjing University<br /><br /></p>
+Southeast University<br /><br /></p>
 </td></tr></table>
 <h2>About Me</h2>
 <ul>
 <li><p>I am currently a Research Assistant of Megvii Research Nanjing, Megvii Technology.</p>
 </li>
-<li><p>I received my M.Sc.degree in Electronic Engineering from Nanjing University in 2019.</p>
+<li><p>I received my M.Sc.degree in Electronic Engineering from Southeast University in 2019.</p>
 </li>
-<li><p>I received my B.Sc.degree in Electronic Engineering from Nanjing University in 2016.</p>
+<li><p>I received my B.Sc.degree in Communication Engineering from Shandong University in 2016.</p>
 </li>
 </ul>
 <h2>Research Interests</h2>
 <p>My research interests include <b>Computer Vision</b>, <b>General Object Detection</b> and <b>Deep Learning</b></p>
-<h2>Competitions</h2>
-<ul>
-<li><p><b>The first place</b> of the iNaturalist track in FGVC 6 (in association with CVPR 2019), 2019.</p>
-</li>
-<li><p><b>The first place</b> of the Herbarium track in FGVC 6 (in association with CVPR 2019), 2019.</p>
 </li>
 </ul>
 <h2>Correspondence</h2>
 <h3>Mail</h3>
-<p>Borui Zhao</p>
+<p>Shihao Zhou</p>
 <p>Megvii Research Nanjing</p>
 <p>Nanjing 210000, China</p>
 <h3>Office</h3>
