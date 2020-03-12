@@ -36,8 +36,6 @@ Southeast University<br /><br /></p>
 </ul>
 <h2>Research Interests</h2>
 <p>My research interests include <b>Computer Vision</b>, <b>General Object Detection</b> and <b>Deep Learning</b></p>
-</li>
-</ul>
 <h2>Correspondence</h2>
 <h3>Mail</h3>
 <p>Shihao Zhou</p>
